@@ -13,7 +13,7 @@ int main(void)
 	double doubleType;
 	char charType;
 
-	printf("Size of int: %lu byte(s)\n", sizeof(int Type));
+	printf("Size of int: %lu byte(s)\n", sizeof(intType));
 	printf("Size of float: %lu byte(s)\n", sizeof(floatType));
 	printf("Size of double: %lu byte(s)\n", sizeof(doubleType));
 	printf("Size of char: %lu byte(s)\n", sizeof(charType));
