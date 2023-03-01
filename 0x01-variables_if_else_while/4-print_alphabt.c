@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	alp[24] = "abcdfghijklmnoprstuvwxyz";
+	char alp[24] = "abcdfghijklmnoprstuvwxyz";
 
 	int i;
 
