@@ -1,17 +1,24 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - Entry point
  *
- * Description: This is my program
+ * Description: This is my program to print _putchar
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	printf('_putchar');
-	printf('\n');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
 	return (0);
 }
