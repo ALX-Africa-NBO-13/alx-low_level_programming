@@ -1,9 +1,7 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * main - Entry point
- *
- * Description: This is my program to print _putchar
+ * main - This is my program to print _putchar
  *
  * Return: Always 0 (Success)
  */
